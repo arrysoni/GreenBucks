@@ -14,6 +14,13 @@ A revolutionary fintech application that rewards sustainable spending through AI
 
 ![GreenBucks Logo](greenfrontend/src/assets/greenbucks_logo.svg)
 
+> **Fork note:** Built by a five-person team at PennApps XXVI. Original repo: [DrKat0m/GreenBucks](https://github.com/DrKat0m/GreenBucks).
+>
+> **My contribution (Aarya Soni):** I built the entire frontend.
+> - Designed and implemented all screens in React 18, Vite, and Tailwind CSS: spending dashboard, transaction eco-scores, leaderboards, and challenges
+> - Built the bank-connection flow on the client side with Plaid Link, plus the receipt-upload and AI-assistant (Koshi) chat interfaces
+> - Managed app state with Zustand and page navigation with React Router
+
 ## 🏆 Overview
 
 GreenBucks transforms how people think about their environmental impact by connecting real banking data to eco-friendly rewards and actionable insights. Using advanced AI and machine learning, we analyze spending patterns to provide personalized recommendations for more sustainable financial decisions.
